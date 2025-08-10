@@ -12,4 +12,4 @@ Align the compass number with the position of the light to find the exact direct
 No. Lightspire does not collect, store, or share any personal data.
 
 ## Contact
-If you need assistance, please email: example@email.com
+If you need assistance, please email: donikaro.dev@gmail.com
